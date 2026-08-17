@@ -207,7 +207,7 @@ export OPENAI_API_KEY="sua-chave-aqui"
 
 ---
 
-# ▶ Como executar a aplicação
+#  Como executar a aplicação
 
 Primeiro clone o repositório e acesse a pasta do projeto.
 
